@@ -26,3 +26,7 @@ of code
 Here is how you make [a link](https://www.wikipedia.org/).
 
 ![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+
+### Contact
+
+The best way to get in touch with me is [on Twitter](https://twitter.com/awoland).
